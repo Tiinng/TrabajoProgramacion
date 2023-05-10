@@ -1,0 +1,126 @@
+body{
+    background-color: rgb(232,220,100);
+}
+
+#Titulo1{
+    /*Aqui estamos creando el titulo con su respectivo borde para que sea más llamativos*/
+    color: orangered;
+    background-color: gray;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 235px 10px 235px;
+    border-style: solid;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#P1{
+    font-size: 20px;
+}
+.Imagen1{
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#P2{
+    font-size: 20px;
+}
+#Pizza1{
+    color: orangered;
+    font-size: 30px;
+}
+.Imagen2{
+    height: 280px;
+    float: left;
+    margin-right: 20px;
+    padding: 5px 5px 5px 5px;
+}
+#P3{
+    font-size: 18px;
+}
+#Precio1{
+    font-size: 20px;
+}
+#PItaliana{
+    font-size: 20px;
+}
+#Pizza2{
+    color: orangered;
+    font-size: 30px;
+    text-align: right;
+}
+.Imagen3{
+    height: 250px;
+    width: 400px;
+    float: right;
+    margin-left: 20px;
+    padding: 5px 5px 5px 5px;
+}
+#PEspañola{
+    font-size: 20px;
+}
+#P4{
+    font-size: 20px;
+}
+#Precio2{
+    font-size: 20px;
+}
+#Pizza3{
+    font-size: 25px;
+    color: orangered;
+}
+.Imagen4{
+    height: 250px;
+    width: 400px;
+    float: left;
+    margin-right: 20px;
+    padding: 5px 5px 5px 5px;
+}
+#PVegana{
+    font-size: 20px;
+}
+#P5{
+    font-size: 20px;
+}
+#Precio3{
+    font-size: 20px;
+}
+.Imagen5{
+    height: 250px;
+    float: right;
+    margin-left: 20px;
+    padding: 5px 5px 5px 5px;
+}
+#P6{
+    font-size: 20px;
+}
+#P7{
+    font-size: 20px;
+}
+#PF{
+    font-size: 20px;
+}
+.Imagen6{
+    height: 250px;
+    float: left;
+    margin-right: 20px;
+    padding: 5px 5px 5px 5px;
+}
+#PFC{
+    font-size: 20px;
+}
+#Precio4{
+    font-size: 20px;
+}
+#PFCS{
+    font-size: 20px;
+}
+#Precio5{
+    font-size: 20px;
+}
+#Comentario{
+    height: 130px;
+    width: 230px;
+}
