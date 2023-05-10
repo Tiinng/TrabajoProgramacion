@@ -1,2 +1,0 @@
-//Un texto cualquiera para ignorar en git :'v
-//Lo siento TXT
